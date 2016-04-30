@@ -14,3 +14,6 @@ a feature1 continue
 a feature finished
 is a revert test
 a ,is a pick test
+rebase -i test
+rebase test 2
+
