@@ -10,3 +10,5 @@ do 1 function
 do 2 function
 do 3fucntion yes to do it 
 do next function is finished
+a feature1 continue
+a feature finished
