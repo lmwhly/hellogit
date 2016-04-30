@@ -12,3 +12,5 @@ do 3fucntion yes to do it
 do next function is finished
 a feature1 continue
 a feature finished
+is a revert test
+a ,is a pick test
