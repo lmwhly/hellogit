@@ -7,4 +7,5 @@ release 1.0.2
 hello new page
 do 1 function
 do 2 function
+do 3fucntion yes to do it 
 do next function is finished
